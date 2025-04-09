@@ -8,7 +8,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atadagg&label=Profile%20views&color=0e75b6&style=flat" alt="atadagg" /> </p>
 
 <!-- Optional Introduction - Keep it brief and engaging! -->
 <p align="left">
@@ -58,12 +58,11 @@
 
 ### 📊 My GitHub Stats
 
-<!-- Replace 'your-username' with your actual GitHub username -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atadagg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atadagg&layout=compact&langs_count=8&theme=dracula"/>
   <!-- Optional: Streak Stats -->
-  <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula" /> -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=atadagg&theme=dracula" />
 </p>
 
 ---
@@ -76,12 +75,12 @@
 
 ### 📫 How to Reach Me
 
-*   **LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com/in/your-linkedin-username)
-*   **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) (Optional)
-*   **Portfolio:** [Your Portfolio Website URL](https://your-portfolio.com) (Optional)
-*   **Email:** [your.email@example.com](mailto:your.email@example.com) (Use with caution due to spam)
+*   **LinkedIn:** [Ata LinkedIn Profile URL](https://www.linkedin.com/in/ata-dagidir/)
+*   **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+*   **Website:** [Life Changing Website](https://atadag.com)
+*   **Email:** [6hrqtslm3@mozmail.com](mailto:6hrqtslm3@mozmail.com) (hit me up on LinkedIn/Twitter preferably)
 
 <!-- Optional: Add a GitHub Actions workflow badge to show your profile README is updating -->
-<!-- <p align="left"> <a href="https://github.com/your-username/your-username/actions/workflows/your-workflow.yml"><img src="https://github.com/your-username/your-username/actions/workflows/your-workflow.yml/badge.svg" alt="Update README workflow"></a> </p> -->
+<p align="left"> <a href="https://github.com/your-username/your-username/actions/workflows/your-workflow.yml"><img src="https://github.com/your-username/your-username/actions/workflows/your-workflow.yml/badge.svg" alt="Update README workflow"></a> </p>
 
 ---
