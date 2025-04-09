@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm atadagg 👋</h1>
-<h3 align="center">CS Student | Indie Hacker | Future Tech Founder | Research Assistant</h3>
+<h3 align="center">Computer Scientist | ML Researcher | Software Developer</h3>
 
 ---
 
@@ -33,7 +33,7 @@
   <br><br>
   <strong>Backend Development:</strong><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original-wordmark.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
   <br><br>
   <strong>Databases:</strong><br>
@@ -78,7 +78,7 @@
 ### 📫 How to Reach Me
 
 *   **LinkedIn:** [Ata Dagidir](https://www.linkedin.com/in/ata-dagidir/)
-*   **Twitter/X:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) *(replace this with yours)*
+*   **Twitter/X:** [@atadawg](https://twitter.com/atadawg)
 *   **Website:** [atadag.com](https://atadag.com)
 *   **Email:** [6hrqtslm3@mozmail.com](mailto:6hrqtslm3@mozmail.com) *(preferably message on LinkedIn or Twitter)*
 
