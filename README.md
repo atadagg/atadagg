@@ -75,8 +75,8 @@
 
 ### 📫 How to Reach Me
 
-*   **LinkedIn:** [Ata LinkedIn Profile URL](https://www.linkedin.com/in/ata-dagidir/)
-*   **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+*   **LinkedIn:** [Ata Dagidir](https://www.linkedin.com/in/ata-dagidir/)
+*   **Twitter:** [@atadagg](https://twitter.com/YourTwitterHandle)
 *   **Website:** [Life Changing Website](https://atadag.com)
 *   **Email:** [6hrqtslm3@mozmail.com](mailto:6hrqtslm3@mozmail.com) (hit me up on LinkedIn/Twitter preferably)
 
