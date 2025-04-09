@@ -67,8 +67,8 @@
 
 ### 🌱 What I'm Currently Learning / Working On
 
-*   ScrapeForge: An open-source scraping ecosystem.
-*   Fidelio: Our software company working on AI automation.
+*   <a href="https://github.com/atadagg/ScrapeForge" target="_blank"><strong>ScrapeForge</strong></a>: An open-source scraping ecosystem.
+*   <a href="https://fidelioware.com" target="_blank"><strong>Fidelio: Our company working on AI Automation</strong></a> -->
 *   Building an emergency earthquake organization system using NLP.
 *   Doing research in Turkish NLP Lab.
 
