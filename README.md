@@ -68,7 +68,7 @@
 ### 🌱 What I'm Currently Learning / Working On
 
 *   <a href="https://github.com/atadagg/ScrapeForge" target="_blank"><strong>ScrapeForge</strong></a>: An open-source scraping ecosystem.
-*   <a href="https://fidelioware.com" target="_blank"><strong>Fidelio: Our company working on AI Automation</strong></a> -->
+*   <a href="https://fidelioware.com" target="_blank"><strong>Fidelio</strong></a>: Our company working on AI Automation
 *   Building an emergency earthquake organization system using NLP.
 *   Doing research in Turkish NLP Lab.
 
