@@ -4,55 +4,58 @@
 </p>
 
 <h1 align="center">Hi there, I'm atadagg 👋</h1>
-<h3 align="center">[Student of Life]</h3>
+<h3 align="center">CS Student | Indie Hacker | Future Tech Founder | Research Assistant</h3>
 
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atadagg&label=Profile%20views&color=0e75b6&style=flat" alt="atadagg" /> </p>
 
-<!-- Optional Introduction - Keep it brief and engaging! -->
 <p align="left">
-  I'm a passionate [Your Field/Interest, e.g., developer, designer, data scientist] based in [Your Location/Region, optional]. I love building things for the web, exploring new technologies, and occasionally petting cats while they code (or maybe that's just the GIF 😉).
+  I'm a curious builder and researcher based in Istanbul 🇹🇷. Currently studying Computer Science, I'm deeply invested in creating scalable systems, exploring the boundaries of AI and automation, and occasionally designing smart gadgets that might one day save your dog. I thrive on turning abstract ideas into real-world systems — from negotiation agents and scraping ecosystems to email outreach bots and full-stack dashboards.
 </p>
 
 ---
 
 ### 🛠️ My Tech Stack
 
-<!-- Use icons from Devicon (https://devicon.dev/) or Shields.io (https://shields.io/) -->
 <p align="left">
   <strong>Languages:</strong><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <!-- Add more languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
   <br><br>
   <strong>Frontend Development:</strong><br>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <!-- Add more frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
   <br><br>
   <strong>Backend Development:</strong><br>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <!-- Add more backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
   <br><br>
   <strong>Databases:</strong><br>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <!-- Add more databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
   <br><br>
   <strong>Tools & Platforms:</strong><br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <!-- Add more tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
 ---
 
 ### 🌱 What I'm Currently Learning / Working On
 
-*   Learning about [New Technology/Concept, e.g., WebSockets, Machine Learning basics]
-*   Building a [Type of Project, e.g., personal portfolio site, Discord bot] using [Key Technology]
-*   Contributing to [Open Source Project Name, if applicable]
+*   Building an open-source scraping ecosystem and an email outreach automation tool powered by LLMs.
+*   Exploring agent-based systems in negotiation with embodiment, NLP, and gesture integration.
+*   Refining startup ideas focused on AI-native automation and legal infrastructure (DAO 2.0, embodied AI backends).
+*   Research assistant in a negotiation-focused AI lab.
 
 ---
 
@@ -61,7 +64,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atadagg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atadagg&layout=compact&langs_count=8&theme=dracula"/>
-  <!-- Optional: Streak Stats -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=atadagg&theme=dracula" />
 </p>
 
@@ -69,18 +71,14 @@
 
 ### ✨ Fun Fact
 
-*   [Add a fun, non-technical fact about yourself! e.g., I can solve a Rubik's cube in under a minute.]
+*   I’m on a mission to automate organizations, from outreach to court rulings — and I might just build a dog-smart-collar startup while I’m at it.
 
 ---
 
 ### 📫 How to Reach Me
 
 *   **LinkedIn:** [Ata Dagidir](https://www.linkedin.com/in/ata-dagidir/)
-*   **Twitter:** [@atadagg](https://twitter.com/YourTwitterHandle)
-*   **Website:** [Life Changing Website](https://atadag.com)
-*   **Email:** [6hrqtslm3@mozmail.com](mailto:6hrqtslm3@mozmail.com) (hit me up on LinkedIn/Twitter preferably)
+*   **Twitter/X:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) *(replace this with yours)*
+*   **Website:** [atadag.com](https://atadag.com)
+*   **Email:** [6hrqtslm3@mozmail.com](mailto:6hrqtslm3@mozmail.com) *(preferably message on LinkedIn or Twitter)*
 
-<!-- Optional: Add a GitHub Actions workflow badge to show your profile README is updating -->
-<p align="left"> <a href="https://github.com/your-username/your-username/actions/workflows/your-workflow.yml"><img src="https://github.com/your-username/your-username/actions/workflows/your-workflow.yml/badge.svg" alt="Update README workflow"></a> </p>
-
----
