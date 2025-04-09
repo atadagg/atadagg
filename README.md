@@ -4,7 +4,14 @@
 </p>
 
 <h1 align="center">Hi there, I'm atadagg 👋</h1>
-<h3 align="center">Computer Scientist | ML Researcher | Software Developer</h3>
+<h3 align="center">Computer Scientist | ML Researcher | Tech Founder</h3>
+
+<p align="center">
+  <a href="https://www.fidelioware.com" target="_blank">
+    <img src="https://www.fidelioware.com/favicon.ico" width="32" height="32" alt="Fidelio Logo" />
+    <strong>Fidelio</strong>
+  </a>
+</p>
 
 ---
 
