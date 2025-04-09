@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm atadagg 👋</h1>
-<h3 align="center">[Your Title/Role, e.g., Full-Stack Developer | Tech Enthusiast | Student]</h3>
+<h3 align="center">[Student of Life]</h3>
 
 ---
 
