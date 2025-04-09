@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.fidelioware.com" target="_blank">
     <img src="https://www.fidelioware.com/favicon.ico" width="32" height="32" alt="Fidelio Logo" />
-    <strong>Fidelio</strong>
+    <strong></strong>
   </a>
 </p>
 
