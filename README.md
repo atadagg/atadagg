@@ -98,4 +98,4 @@
 *   **Website:** [atadag.com](https://atadag.com)
 *   **Email:** [6hrqtslm3@mozmail.com](mailto:6hrqtslm3@mozmail.com) *(preferably message on LinkedIn or Twitter)*
 
-![](/Screenshot 2024-08-19 at 20.14.09.png)
+![fidelio logo](https://github.com/atadagg/atadagg/blob/main/Screenshot%202024-08-19%20at%2020.14.09.png)
