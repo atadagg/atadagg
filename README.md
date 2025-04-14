@@ -59,7 +59,7 @@
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/> </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
    <!-- Add icons for CI/CD conceptually if desired -->
-   <br><i>CI/CD Practices</i><br>
+   <!-- <br><i>CI/CD Practices</i><br> -->
 </p>
 
 
