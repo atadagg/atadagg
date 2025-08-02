@@ -101,3 +101,7 @@
 <p align="center">
   <img src="https://github.com/atadagg/atadagg/blob/main/Screenshot%202024-08-19%20at%2019.52.32.png" alt="fidelio logo">
 </p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/V9XGNgbfBzcAAAAd/spinning-monogatari.gif" width="300px" alt="Ononoki">
+</p>
