@@ -1,6 +1,6 @@
 <!-- Center the greeting -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="300px" alt="Coding Cat Gif"/>
+  <img src="https://media1.tenor.com/m/V9XGNgbfBzcAAAAd/spinning-monogatari.gif" width="300px" alt="Ononoki">
 </p>
 
 <h1 align="center">Hi there, I'm atadagg 👋</h1>
@@ -100,8 +100,4 @@
 
 <p align="center">
   <img src="https://github.com/atadagg/atadagg/blob/main/Screenshot%202024-08-19%20at%2019.52.32.png" alt="fidelio logo">
-</p>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/V9XGNgbfBzcAAAAd/spinning-monogatari.gif" width="300px" alt="Ononoki">
 </p>
