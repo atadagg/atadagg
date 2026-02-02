@@ -84,13 +84,6 @@
 
 ---
 
-### ✨ Fun Fact
-
-*   I’m on a mission to automate organizations, from outreach to court rulings — and I might just build a dog-smart-collar startup while I’m at it.
-*   text above is obviously ai-written, when will it become unrecognizable?
-
----
-
 ### 📫 How to Reach Me
 
 *   **LinkedIn:** [Ata Dagidir](https://www.linkedin.com/in/ata-dagidir/)
