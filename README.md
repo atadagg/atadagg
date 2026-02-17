@@ -1,7 +1,4 @@
-<!-- Center the greeting -->
-<p align="center">
-  <img src="https://media1.tenor.com/m/V9XGNgbfBzcAAAAd/spinning-monogatari.gif" width="300px" alt="Ononoki">
-</p>
+
 
 <h1 align="center">atadag</h1>
 <h3 align="center">Being</h3>
@@ -12,11 +9,10 @@
     <strong></strong>
   </a>
 </p>
-
 ---
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atadagg&label=Profile%20views&color=0e75b6&style=flat" alt="atadagg" /> </p>
-
+<p align="center">
+  <img src="https://media1.tenor.com/m/V9XGNgbfBzcAAAAd/spinning-monogatari.gif" width="300px" alt="Ononoki">
+</p>
 ---
 
 reach me:
