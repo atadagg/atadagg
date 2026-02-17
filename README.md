@@ -3,8 +3,8 @@
   <img src="https://media1.tenor.com/m/V9XGNgbfBzcAAAAd/spinning-monogatari.gif" width="300px" alt="Ononoki">
 </p>
 
-<h1 align="center">Hi there, I'm atadagg 👋</h1>
-<h3 align="center">Computer Scientist | ML Researcher | Tech Founder</h3>
+<h1 align="center">atadag</h1>
+<h3 align="center">Being</h3>
 
 <p align="center">
   <a href="https://www.fidelioware.com" target="_blank">
