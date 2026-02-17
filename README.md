@@ -1,5 +1,3 @@
-
-
 <h1 align="center">atadag</h1>
 <h3 align="center">Being</h3>
 
@@ -9,17 +7,20 @@
     <strong></strong>
   </a>
 </p>
+
 ---
+
 <p align="center">
   <img src="https://media1.tenor.com/m/V9XGNgbfBzcAAAAd/spinning-monogatari.gif" width="300px" alt="Ononoki">
 </p>
+
 ---
 
 reach me:
 *   **LinkedIn:** [Ata Dagidir](https://www.linkedin.com/in/ata-dagidir/)
 *   **Twitter/X:** [@atadawg](https://twitter.com/atadawg)
 *   **Website:** [atadag.com](https://atadag.com)
-*   **Email:** [6hrqtslm3@mozmail.com](mailto:6hrqtslm3@mozmail.com) *(preferably message on LinkedIn or Twitter)*
+*   **Email:** [6hrqtslm3@mozmail.com](mailto:atadagidir@gmail.com)
 
 <p align="center">
   <img src="https://github.com/atadagg/atadagg/blob/main/Screenshot%202024-08-19%20at%2019.52.32.png" alt="fidelio logo">
