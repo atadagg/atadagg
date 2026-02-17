@@ -20,7 +20,7 @@ reach me:
 *   **LinkedIn:** [Ata Dagidir](https://www.linkedin.com/in/ata-dagidir/)
 *   **Twitter/X:** [@atadawg](https://twitter.com/atadawg)
 *   **Website:** [atadag.com](https://atadag.com)
-*   **Email:** [6hrqtslm3@mozmail.com](mailto:atadagidir@gmail.com)
+*   **Email:** [atadagidir@gmail.com](mailto:atadagidir@gmail.com)
 
 <p align="center">
   <img src="https://github.com/atadagg/atadagg/blob/main/Screenshot%202024-08-19%20at%2019.52.32.png" alt="fidelio logo">
